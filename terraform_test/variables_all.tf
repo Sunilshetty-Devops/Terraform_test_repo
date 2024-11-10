@@ -16,7 +16,7 @@ variable "over_sp" {
 
 }
 
-
+/*
 resource "random_string" "random" {
   length           = var.l1
   special          = var.special1
@@ -33,5 +33,5 @@ output file_id1{
  
  value=random_string.random.id
 }
-
+*/
 
